@@ -1,0 +1,16 @@
+{
+	"name": "svelte-toast",
+	"version": "0.1.0",
+	"description": "Accessible toast store for Svelte 5 with pause-on-hover timers",
+	"type": "module",
+	"files": [
+		"src"
+	],
+	"exports": {
+		".": "./src/index.ts"
+	},
+	"peerDependencies": {
+		"svelte": "^5.0.0"
+	},
+	"license": "MIT"
+}
